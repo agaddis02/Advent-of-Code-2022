@@ -1,7 +1,0 @@
-C:\Users\agadd\Documents\Adam\GitHub\AdventofCode\Day4\Day4\bin\Debug\Day4.exe.config
-C:\Users\agadd\Documents\Adam\GitHub\AdventofCode\Day4\Day4\bin\Debug\Day4.exe
-C:\Users\agadd\Documents\Adam\GitHub\AdventofCode\Day4\Day4\bin\Debug\Day4.pdb
-C:\Users\agadd\Documents\Adam\GitHub\AdventofCode\Day4\Day4\obj\Debug\Day4.csproj.AssemblyReference.cache
-C:\Users\agadd\Documents\Adam\GitHub\AdventofCode\Day4\Day4\obj\Debug\Day4.csproj.CoreCompileInputs.cache
-C:\Users\agadd\Documents\Adam\GitHub\AdventofCode\Day4\Day4\obj\Debug\Day4.exe
-C:\Users\agadd\Documents\Adam\GitHub\AdventofCode\Day4\Day4\obj\Debug\Day4.pdb

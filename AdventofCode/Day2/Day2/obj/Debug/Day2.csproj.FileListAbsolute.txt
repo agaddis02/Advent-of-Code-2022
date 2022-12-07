@@ -1,0 +1,7 @@
+C:\Users\agadd\Documents\Adam\GitHub\AdventofCode\Day2\Day2\obj\Debug\Day2.csproj.AssemblyReference.cache
+C:\Users\agadd\Documents\Adam\GitHub\AdventofCode\Day2\Day2\obj\Debug\Day2.csproj.CoreCompileInputs.cache
+C:\Users\agadd\Documents\Adam\GitHub\AdventofCode\Day2\Day2\bin\Debug\Day2.exe.config
+C:\Users\agadd\Documents\Adam\GitHub\AdventofCode\Day2\Day2\bin\Debug\Day2.exe
+C:\Users\agadd\Documents\Adam\GitHub\AdventofCode\Day2\Day2\bin\Debug\Day2.pdb
+C:\Users\agadd\Documents\Adam\GitHub\AdventofCode\Day2\Day2\obj\Debug\Day2.exe
+C:\Users\agadd\Documents\Adam\GitHub\AdventofCode\Day2\Day2\obj\Debug\Day2.pdb

@@ -1,0 +1,15 @@
+/Users/agadd1/Documents/Adam/GitHub/AdventofCode/Day7/Day7/bin/Debug/net7.0/Day7
+/Users/agadd1/Documents/Adam/GitHub/AdventofCode/Day7/Day7/bin/Debug/net7.0/Day7.deps.json
+/Users/agadd1/Documents/Adam/GitHub/AdventofCode/Day7/Day7/bin/Debug/net7.0/Day7.runtimeconfig.json
+/Users/agadd1/Documents/Adam/GitHub/AdventofCode/Day7/Day7/bin/Debug/net7.0/Day7.dll
+/Users/agadd1/Documents/Adam/GitHub/AdventofCode/Day7/Day7/bin/Debug/net7.0/Day7.pdb
+/Users/agadd1/Documents/Adam/GitHub/AdventofCode/Day7/Day7/obj/Debug/net7.0/Day7.csproj.AssemblyReference.cache
+/Users/agadd1/Documents/Adam/GitHub/AdventofCode/Day7/Day7/obj/Debug/net7.0/Day7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agadd1/Documents/Adam/GitHub/AdventofCode/Day7/Day7/obj/Debug/net7.0/Day7.AssemblyInfoInputs.cache
+/Users/agadd1/Documents/Adam/GitHub/AdventofCode/Day7/Day7/obj/Debug/net7.0/Day7.AssemblyInfo.cs
+/Users/agadd1/Documents/Adam/GitHub/AdventofCode/Day7/Day7/obj/Debug/net7.0/Day7.csproj.CoreCompileInputs.cache
+/Users/agadd1/Documents/Adam/GitHub/AdventofCode/Day7/Day7/obj/Debug/net7.0/Day7.dll
+/Users/agadd1/Documents/Adam/GitHub/AdventofCode/Day7/Day7/obj/Debug/net7.0/refint/Day7.dll
+/Users/agadd1/Documents/Adam/GitHub/AdventofCode/Day7/Day7/obj/Debug/net7.0/Day7.pdb
+/Users/agadd1/Documents/Adam/GitHub/AdventofCode/Day7/Day7/obj/Debug/net7.0/Day7.genruntimeconfig.cache
+/Users/agadd1/Documents/Adam/GitHub/AdventofCode/Day7/Day7/obj/Debug/net7.0/ref/Day7.dll
